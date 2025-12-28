@@ -183,10 +183,6 @@ iproute2
 iputils
 dhclient
 
-# --- Tools ---
-nano
-sudo
-
 # --- chaotic-aur
 chaotic-mirrorlist
 chaotic-keyring
